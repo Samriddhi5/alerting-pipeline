@@ -1,1 +1,4 @@
-
+{
+    "login_failure_threshold": 3,
+    "detection_window_minutes": 5
+}
