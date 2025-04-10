@@ -30,7 +30,7 @@ The rule flags any user with **more than 3 failed logins from the same IP within
 
 ---
 
-## 🔧 Expand This Project
+## 🔧 Future work for this Project
 
 - Add Slack/email alerting
 - Integrate with Filebeat or Kafka for real-time log streaming
@@ -38,7 +38,3 @@ The rule flags any user with **more than 3 failed logins from the same IP within
 - Convert logic to use Sigma rules
 
 ---
-
-## 📄 License
-
-MIT
